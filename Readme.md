@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandar Kapse</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandarkapse17&label=Profile%20views&color=0e75b6&style=flat" alt="mandarkapse17" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mandarkapse17" target="blank"><img src="https://img.shields.io/twitter/follow/mandarkapse17?logo=twitter&style=for-the-badge" alt="mandarkapse17" /></a> </p>
 
-- 🔭 I’m currently working on **a special project**
+- 🔭 I’m currently working on **a Portfolio Website**
 
-- 🌱 I’m currently learning **Javascript and React Framework**
+- 🌱 I’m currently learning **Backend and Cloud Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mandarkapse17](https://github.com/mandarkapse17)
 
