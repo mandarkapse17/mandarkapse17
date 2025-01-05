@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mandarkapse17" target="blank"><img src="https://img.shields.io/twitter/follow/mandarkapse17?logo=twitter&style=for-the-badge" alt="mandarkapse17" /></a> </p>
 
-- 🔭 I’m currently working on **a Portfolio Website**
+- 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Backend and Cloud Technologies**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [mandarkapse.com](mandarkapse.com)
 
-- 📫 How to reach me **hello@mandarkapse.com**
+- 📫 Reach out through mail **hello@mandarkapse.com**
 
 - 📄 Know about my experiences [https://mandarkapse.in/resume](https://mandarkapse.com/resume)
 
