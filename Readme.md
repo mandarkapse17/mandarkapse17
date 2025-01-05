@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [mandarkapse.com](mandarkapse.com)
 
-- 📫 How to reach me **LinkedIN**
+- 📫 How to reach me **hello@mandarkapse.com**
 
 - 📄 Know about my experiences [https://mandarkapse.in/resume](https://mandarkapse.com/resume)
 
