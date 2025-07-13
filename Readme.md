@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mandarkapse17](https://github.com/mandarkapse17)
 
-- 📝 I regularly write articles on [mandarkapse.com](mandarkapse.com)
+- 📝 I regularly write articles on [mandarkapse.in](mandarkapse.in)
 
-- 📫 Reach out through mail **hello@mandarkapse.com**
+- 📫 Reach out through mail **hello@mandarkapse.in**
 
-- 📄 Know about my experiences [https://mandarkapse.in/resume](https://mandarkapse.com/resume)
+- 📄 Know about my experiences [https://mandarkapse.in/resume](https://mandarkapse.in/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
