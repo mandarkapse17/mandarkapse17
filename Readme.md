@@ -9,9 +9,9 @@ Passionate about automation, system reliability, and delivering clean, efficient
 
 <p align="left"> <a href="https://twitter.com/mandarkapse17" target="blank"><img src="https://img.shields.io/twitter/follow/mandarkapse17?logo=twitter&style=for-the-badge" alt="mandarkapse17" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **building my Portfolio**
 
-- 🌱 I’m currently learning **Backend and Cloud Technologies**
+- 🌱 I’m currently learning **Cloud Technologies and Devops Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mandarkapse17](https://github.com/mandarkapse17)
 
