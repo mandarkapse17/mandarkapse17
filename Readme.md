@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mandar Kapse</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h1 align="center"> Welcome to my Github Profile👋</h1>
+<h2 align="center"> DevOps | Cloud | Infrastructure Automation </h2>
+<h3 align="center">Skilled in building and managing scalable infrastructure using Azure, Ansible, Terraform, and CI/CD pipelines.
+Passionate about automation, system reliability, and delivering clean, efficient solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandarkapse17&label=Profile%20views&color=0e75b6&style=flat" alt="mandarkapse17" /> </p>
 
